@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafa</h1>
-<h3 align="center">A passionate software developer at https://www.indracompany.com/.</h3>
+<h3 align="center">A passionate software developer at <a href="https://www.indracompany.com/">Indra</a>
 
 - 🔭 I’m currently working on **web app for Galicia goverment**
 
