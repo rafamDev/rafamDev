@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafa</h1>
-<h3 align="center">A passionate software developer at <a href="https://www.indracompany.com/">Indra</a>
+<h3 align="center">A passionate software developer at <a href="https://www.indracompany.com/">Indra</a>.
 
-- 🔭 I’m currently working on **web app for <a href="https://www.xunta.gal/portada">Galicia goverment</a>**
+- 🔭 I’m currently working on **web app for <a href="https://www.xunta.gal/portada">Galicia goverment</a>.**
 
 - 🌱 I’m currently learning **more tools for development.**
 
-- 📫 How to reach me **rafamayo7@gmail.com**
+- 📫 How to reach me **rafamayo7@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
