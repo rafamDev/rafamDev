@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafa</h1>
 <h3 align="center">A passionate software developer at <a href="https://www.indracompany.com/en">Indra company</a>.
 
-- 🔭 I’m currently working on **web app for <a href="https://www.xunta.gal/portada">Government of Galicia</a>.**
+- 🔭 I’m currently working on **web app for <a href="https://www.conselleriadefacenda.gal/es/inicio">Government of Galicia in tax area</a>.**
 
 - 🌱 I’m currently learning **more tools for development.**
 
